@@ -1,0 +1,15 @@
+[submodule "cmake/project_options"]
+	path = cmake/project_options
+	url = https://github.com/aminya/project_options.git
+[submodule "external/nifly"]
+	path = external/nifly
+	url = https://github.com/ousnius/nifly.git
+[submodule "external/DirectXTex"]
+	path = external/DirectXTex
+	url = https://github.com/microsoft/DirectXTex.git
+[submodule "external/DirectXMath"]
+	path = external/DirectXMath
+	url = https://github.com/microsoft/DirectXMath.git
+[submodule "external/DirectX-Headers"]
+	path = external/DirectX-Headers
+	url = https://github.com/microsoft/DirectX-Headers.git
